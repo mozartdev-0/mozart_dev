@@ -26,9 +26,9 @@
 
 ##  Status do Sistema
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mozartdev-0&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mozartdev-0&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozartdev-0&layout=compact&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&langs_count=6" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozartdev-0&layout=compact&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=6" />
 
 ---
 
